@@ -115,7 +115,7 @@ Metode GET digunakan untuk mengambil data dari API.
 Contoh endpoint:
 
 ```bash
-GET http://localhost:3000/users
+GET http://localhost:3000/1
 ```
 
 ### Contoh Response JSON
